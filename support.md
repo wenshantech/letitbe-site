@@ -2,7 +2,7 @@
 
 如果您在使用「放下吧」App 時遇到任何問題，或有任何建議與回饋，歡迎透過以下方式與我們聯絡：
 
-**Email：** support@wenshantech.com
+**Email：** developer@wenshantech.com
 
 我們會盡快回覆您的訊息。
 
